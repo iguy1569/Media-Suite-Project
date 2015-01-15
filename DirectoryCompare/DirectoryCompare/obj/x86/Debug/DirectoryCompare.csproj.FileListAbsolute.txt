@@ -1,0 +1,7 @@
+C:\Users\Ian\Desktop\DirectoryCompare\DirectoryCompare\bin\Debug\DirectoryCompare.exe
+C:\Users\Ian\Desktop\DirectoryCompare\DirectoryCompare\bin\Debug\DirectoryCompare.pdb
+C:\Users\Ian\Desktop\DirectoryCompare\DirectoryCompare\obj\x86\Debug\DirectoryCompare.DirectoryCompare.resources
+C:\Users\Ian\Desktop\DirectoryCompare\DirectoryCompare\obj\x86\Debug\DirectoryCompare.Properties.Resources.resources
+C:\Users\Ian\Desktop\DirectoryCompare\DirectoryCompare\obj\x86\Debug\DirectoryCompare.csproj.GenerateResource.Cache
+C:\Users\Ian\Desktop\DirectoryCompare\DirectoryCompare\obj\x86\Debug\DirectoryCompare.exe
+C:\Users\Ian\Desktop\DirectoryCompare\DirectoryCompare\obj\x86\Debug\DirectoryCompare.pdb

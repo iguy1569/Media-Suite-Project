@@ -1,0 +1,55 @@
+M:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.exe.manifest
+M:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.application
+M:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.exe
+M:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.pdb
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.AddFolderPermissions.resources
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ConfigEditWindow.resources
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.EditConfigFileWindow.resources
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.SysTrayApp.resources
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.Properties.Resources.resources
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ShowTransferProgress.resources
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.csproj.GenerateResource.Cache
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.exe.manifest
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.application
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.exe
+M:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.pdb
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.exe
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.pdb
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.AddFolderPermissions.resources
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ConfigEditWindow.resources
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.EditConfigFileWindow.resources
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.SysTrayApp.resources
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.Properties.Resources.resources
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ShowTransferProgress.resources
+G:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.csproj.GenerateResource.Cache
+H:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.exe.manifest
+H:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.application
+H:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.exe
+H:\C# Projects\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.pdb
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.AddFolderPermissions.resources
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ConfigEditWindow.resources
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.EditConfigFileWindow.resources
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.SysTrayApp.resources
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.Properties.Resources.resources
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ShowTransferProgress.resources
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.csproj.GenerateResource.Cache
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.exe.manifest
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.application
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.exe
+H:\C# Projects\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.pdb
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.exe
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.pdb
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.exe.manifest
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.application
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.exe
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\bin\Release\MediaDistributor.pdb
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.csprojResolveAssemblyReference.cache
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.AddFolderPermissions.resources
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ConfigEditWindow.resources
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.EditConfigFileWindow.resources
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.SysTrayApp.resources
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.Properties.Resources.resources
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.ShowTransferProgress.resources
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.csproj.GenerateResource.Cache
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.exe.manifest
+E:\C# Projects\Media Suite Project\MediaDistributor\MediaDistributor\obj\x86\Release\MediaDistributor.application

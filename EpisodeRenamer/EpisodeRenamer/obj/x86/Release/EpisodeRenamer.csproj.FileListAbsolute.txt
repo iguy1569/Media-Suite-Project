@@ -1,0 +1,66 @@
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe.manifest
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.application
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.pdb
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\TvdbLib.dll
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\CustomSortTitles.CustomTitleSorter.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EditTag.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EpisodeNameConverter.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EpisodeNameSorter.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.Properties.Resources.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.SeriesSearchFilter.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.SetSeriesName.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.ShuffleTitlesWindow.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\CustomSortTitles.subListSingleItem.resources
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.csproj.GenerateResource.Cache
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.exe.manifest
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.application
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.exe
+M:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.pdb
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\TvdbLib.dll
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe.config
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe.manifest
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.application
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeTitleParser.dll
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeTitleParser.pdb
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.csprojResolveAssemblyReference.cache
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\CustomSortTitles.CustomTitleSorter.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EditTag.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EpisodeNameConverter.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EpisodeNameSorter.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.Properties.Resources.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.SeriesSearchFilter.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.SetSeriesName.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.ShuffleTitlesWindow.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\CustomSortTitles.subListSingleItem.resources
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.csproj.GenerateResource.Cache
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.exe.manifest
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.application
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.exe
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.pdb
+H:\C# Projects\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.pdb
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe.config
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe.manifest
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.application
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.exe
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeRenamer.pdb
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeTitleParser.dll
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\TvdbLib.dll
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\bin\Release\EpisodeTitleParser.pdb
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\CustomSortTitles.CustomTitleSorter.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EpisodeNameConverter.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.EpisodeNameSorter.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.ManualConfig.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.ManualCorrectionWindows.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.ManualEdit.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.Properties.Resources.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.SeriesSearchFilter.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.ShuffleTitlesWindow.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\CustomSortTitles.subListSingleItem.resources
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.csproj.GenerateResource.Cache
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.exe.manifest
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.application
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.exe
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.pdb
+E:\C# Projects\Episode Renamer Project\EpisodeRenamer\EpisodeRenamer\obj\x86\Release\EpisodeRenamer.csprojResolveAssemblyReference.cache

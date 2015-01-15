@@ -1,0 +1,6 @@
+E:\C# Projects\Episode Renamer Project\EpisodeTitleParser\EpisodeTitleParser\bin\Debug\EpisodeTitleParser.dll
+E:\C# Projects\Episode Renamer Project\EpisodeTitleParser\EpisodeTitleParser\bin\Debug\EpisodeTitleParser.pdb
+E:\C# Projects\Episode Renamer Project\EpisodeTitleParser\EpisodeTitleParser\bin\Debug\TvdbLib.dll
+E:\C# Projects\Episode Renamer Project\EpisodeTitleParser\EpisodeTitleParser\obj\Debug\EpisodeTitleParser.dll
+E:\C# Projects\Episode Renamer Project\EpisodeTitleParser\EpisodeTitleParser\obj\Debug\EpisodeTitleParser.pdb
+E:\C# Projects\Episode Renamer Project\EpisodeTitleParser\EpisodeTitleParser\obj\Debug\EpisodeTitleParser.csprojResolveAssemblyReference.cache

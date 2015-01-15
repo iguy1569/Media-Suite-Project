@@ -1,0 +1,35 @@
+G:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.exe
+G:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.pdb
+G:\C# Projects\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.exe
+G:\C# Projects\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.pdb
+G:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.DirectoryCompare.resources
+G:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Properties.Resources.resources
+G:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.csproj.GenerateResource.Cache
+G:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.csprojResolveAssemblyReference.cache
+G:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Loading.resources
+M:\C# Projects\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.exe
+M:\C# Projects\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.pdb
+M:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.DirectoryCompare.resources
+M:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Loading.resources
+M:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Properties.Resources.resources
+M:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.csproj.GenerateResource.Cache
+M:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.exe
+M:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.pdb
+M:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.csprojResolveAssemblyReference.cache
+H:\C# Projects\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.exe
+H:\C# Projects\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.pdb
+H:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.DirectoryCompare.resources
+H:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Loading.resources
+H:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Properties.Resources.resources
+H:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.csproj.GenerateResource.Cache
+H:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.exe
+H:\C# Projects\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.pdb
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.exe
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.pdb
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.exe
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\bin\Release\DirectoryCompare.pdb
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.csprojResolveAssemblyReference.cache
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.DirectoryCompare.resources
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Loading.resources
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.Properties.Resources.resources
+E:\C# Projects\Episode Renamer Project\DirectoryCompare\DirectoryCompare\obj\x86\Release\DirectoryCompare.csproj.GenerateResource.Cache
